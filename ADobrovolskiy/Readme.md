@@ -47,4 +47,14 @@ Following result has been gotten: no main manifest attribute, in app.jar
 
 ...
 
+Following command has been executed: $ java -cp app.jar Javamain
+Following result has been gotten: WTF!?
 
+...
+
+
+Manifest file has been cretaed: $ echo "Main-Class: SimpleMain">>manifest.txt
+Following command has been executed: $ cat manifest.txt
+Following result has been gotten: Main-Class: SimpleMain
+
+...
