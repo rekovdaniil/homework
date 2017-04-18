@@ -22,3 +22,11 @@ $ javac -d out src/Javamain.java
 '''
 
 ...
+
+Following command has been executed: $ java -cp out Javamain
+Following result has been gotten: WTF!?
+
+...
+
+
+
