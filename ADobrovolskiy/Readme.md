@@ -79,3 +79,8 @@ adding: Javamain.class (in=415) (out=284) (deflated 31%)
 Total:
 ------
 (in = 436) (out = 721) (deflated -65%)
+...
+
+Following command has been executed: $ java -jar app.jar
+Following result has been gotten: WTF!?
+
