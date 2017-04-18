@@ -14,4 +14,11 @@ public class Javamain{
   }
 }
 '''
+...
 
+"Javamain.class" file has bee generated in /out folder. Execute following command:
+'''sh
+$ javac -d out src/Javamain.java
+'''
+
+...
