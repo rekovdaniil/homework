@@ -60,3 +60,10 @@ Following result has been gotten: Main-Class: SimpleMain
 ...
 
 Following command has been executed: $ jar -cvfm app.jar manifest.txt -C out/ .
+
+Following command has been executed: $ java -jar app.jar
+Following result has been gotten: "Error: Could not find or load main class SimpleMain"
+
+...
+
+
