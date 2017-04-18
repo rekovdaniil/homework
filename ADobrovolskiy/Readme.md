@@ -39,3 +39,12 @@ Error adding out to jar archive!
 
 Following command has been executed: $jar -cvf app.jar -C out/ .
 Following result has been gotten: "app.jar" created
+
+...
+
+Following command has been executed: $ java -jar app.jar
+Following result has been gotten: no main manifest attribute, in app.jar
+
+...
+
+
