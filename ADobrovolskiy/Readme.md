@@ -58,3 +58,5 @@ Following command has been executed: $ cat manifest.txt
 Following result has been gotten: Main-Class: SimpleMain
 
 ...
+
+Following command has been executed: $ jar -cvfm app.jar manifest.txt -C out/ .
