@@ -69,3 +69,13 @@ Following result has been gotten: "Error: Could not find or load main class Simp
 Fix wrong class name: from "SimpleMain" onto "Javamain"
 
 ...
+
+Following command has been executed: $ jar -cvfm app.jar manifest.txt -C out/ .
+Following result has been gotten:
+adding: META-INF/ (in=0) (out=0) (stored 0%)
+adding: META-INF/MANIFEST.MF (in=21) (out=21) (deflated 0%)
+adding: ./ (in=0) (out=0) (stored 0%)
+adding: Javamain.class (in=415) (out=284) (deflated 31%)
+Total:
+------
+(in = 436) (out = 721) (deflated -65%)
