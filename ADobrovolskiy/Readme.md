@@ -66,4 +66,6 @@ Following result has been gotten: "Error: Could not find or load main class Simp
 
 ...
 
+Fix wrong class name: from "SimpleMain" onto "Javamain"
 
+...
