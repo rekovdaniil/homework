@@ -36,3 +36,6 @@ out: No such file or directory
 Error adding out to jar archive!
 
 ...
+
+Following command has been executed: $jar -cvf app.jar -C out/ .
+Following result has been gotten: "app.jar" created
