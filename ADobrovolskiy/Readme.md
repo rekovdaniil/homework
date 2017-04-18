@@ -28,5 +28,11 @@ Following result has been gotten: WTF!?
 
 ...
 
+Following command has been executed: $ jar -cvf app.jar out
+Following result has been gotten: 
+adding: META-INF/ (in=0) (out=0) (stored 0%)
+adding: META-INF/MANIFEST.MF (in=56) (out=56) (stored 0%)
+out: No such file or directory
+Error adding out to jar archive!
 
-
+...
