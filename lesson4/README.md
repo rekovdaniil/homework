@@ -43,7 +43,7 @@
   }
 ```
 
-  * Напишите метод, который конвертирует строку, содержащую целое число в **десятичной** системе счисления, в целое число в **двоичной** системе счисления используя [Short Division by Two with Remainder](http://www.wikihow.com/Convert-from-Decimal-to-Binary#Short_Division_by_Two_with_Remainder_sub)
+  * Напишите метод, который конвертирует целое число в **десятичной** системе счисления, в строку, содержащую целое число в **двоичной** системе счисления используя [Short Division by Two with Remainder](http://www.wikihow.com/Convert-from-Decimal-to-Binary#Short_Division_by_Two_with_Remainder_sub)
 
 ```java
   public static String convertDecToBin1(int decimal) {
@@ -52,7 +52,7 @@
   }
 ```
 
-  * Напишите метод, который конвертирует строку, содержащую целое число в **десятичной** системе счисления, в целое число в **двоичной** системе счисления используя [Descending Powers of Two and Subtraction](http://www.wikihow.com/Convert-from-Decimal-to-Binary#Descending_Powers_of_Two_and_Subtraction_sub)
+  * Напишите метод, который конвертирует целое число в **десятичной** системе счисления, в строку, содержащую число в **двоичной** системе счисления используя [Descending Powers of Two and Subtraction](http://www.wikihow.com/Convert-from-Decimal-to-Binary#Descending_Powers_of_Two_and_Subtraction_sub)
 
 ```java
   public static String convertDecToBin2(int decimal) {
