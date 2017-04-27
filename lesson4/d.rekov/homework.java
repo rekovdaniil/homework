@@ -12,6 +12,19 @@ public class homework
     String c = "Task 1 String Variable";
     System.out.printf("Integer = %d \nFloat = %.2f \nString = %s\n",a,b,c);
     System.out.printf("______________________\n");
+// Task 2
+System.out.printf("______________________\n");
+System.out.printf("TASK 2 METHOD\n");
+System.out.printf("______________________\n");
+for(int i =1;i<6;i++)
+   {
+     ShowME();
+    }
+  }
+    public static void ShowME()
+      {
+        System.out.println(" ***** ");
+       }
 
   }
-}
+  
