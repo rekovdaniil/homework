@@ -20,11 +20,31 @@ for(int i =1;i<6;i++)
    {
      ShowME();
     }
+System.out.printf("______________________\n");
+System.out.printf("TASK 3 YEAR\n");
+System.out.printf("______________________\n");
+    int Year = 1996;
+        for(int i=Year;i<2018;i++)
+        {
+          WhatsTheYear();
+        }
   }
     public static void ShowME()
       {
         System.out.println(" ***** ");
        }
+    public static void WhatsTheYear(int Year)
+       {
+        if(Year % 4 == 0)
+          {
+            if(Year % 100 != 0  || Year % 400 == 0)
+            {
+              System.out.println(year + "It's 366 days year");
+            }
+            else System.out.println(year + "It's 365 days year");
+          }
+          else System.out.println(year + "It's 365 days year");
+        }
+
 
   }
-  
